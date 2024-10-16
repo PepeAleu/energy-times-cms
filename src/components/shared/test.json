@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_tests",
+  "info": {
+    "displayName": "Test",
+    "icon": "medium"
+  },
+  "options": {},
+  "attributes": {
+    "Test": {
+      "type": "date"
+    }
+  }
+}
